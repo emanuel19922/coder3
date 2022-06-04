@@ -7,7 +7,7 @@
 
 header  {
     
-    border: 1px solid rgb(239, 239, 239);
+    border: 1px solid rgb(237, 31, 31);
     display: grid;
     grid-template-columns: 20% 20% 30% 10%;
     grid-template-rows: 100px 50px 200px;
